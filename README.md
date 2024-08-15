@@ -13,7 +13,7 @@
 <a href="https://codeforces.com/profile/noob_sailor">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=noob_sailor&theme=github_dark&force_username=true&border_color=404040" alt="Yashwanth's Codeforces Stats"/>
 </a>
-<a href="https://leetcode.com/kyashwanth944/">
+<a href="https://leetcode.com/PudgePower/">
 <img height="316" src="https://leetcard.jacoblin.cool/kyashwanth944?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/yashwanth944/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yashwanth's Leetcode Stats"/>
 </a>
 </span>
