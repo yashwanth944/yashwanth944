@@ -1,11 +1,3 @@
-## 📊 Github Stats
-
-<span>
-<a href="https://github.com/yashwanth944">
-<img height="173" width="400" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=yashwanth944&layout=compact&langs_count=6&theme=github_dark&border_color=404040" alt="Yashwanth Github Top Languages" />
-<img height="173" width="400" src="https://github-readme-stats-redheadphone.vercel.app/api?username=yashwanth944&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Yashwanth Github Stats" />
-</a>
-</span>
 
 ## 📈 Coding Profiles
 
